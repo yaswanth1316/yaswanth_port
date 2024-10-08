@@ -1,0 +1,150 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/poster.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/yaswanth1316/yaswanth1316.github.io"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/diagnosym.png",
+            "title": "DiagnoSym",
+            "bodyText": "- Developed a health assistant using React.js, Django, and Python, achieving 93.2% disease prediction accuracy and enhancing symptom assessment by 15% with NLP.\n - Database management with SQLite3.\n - Deployed and managed with GitHub for collaborative development.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/yaswanth1316/DiagnoSym"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "React Js",
+                "SQLite3",
+                "Git",
+                "Jira"
+            ]
+        },
+        {
+            "image" : "images/projects/homepage.png",
+            "title": "The Biography Nook",
+            "bodyText": "-  Developed a responsive bookstore website utilizing HTML, Vue.js, CSS, and MySQL, showcasing proficiency in front-end and back-end technologies for dynamic and user-friendly web experiences. \n - Integrated MySQL to manage 200+ books, user accounts, and transactions, showcasing data management skills.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/yaswanth1316/BiographyNook"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "Vue.Js",
+                "RestAPI",
+                "TypeScript",
+                "MySQL",
+                "Git"
+            ]
+        },
+        {
+            "title": "Accolade",
+            "bodyText": "- Developed Accolade app using Flask, PostgreSQL, and Stack API for a dynamic reward system.\n - Managed 1,000+ user records with PostgreSQL, ensuring efficient data handling and scalability.\n - Integrated Power BI to track user metrics, boosting user activity by 20%.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/yaswanth1316/Accolade"
+                }
+            ],
+            "tags" : [
+                "Flask ",
+                "PostgreSQL",
+                "PowerBI",
+                "Stack API",
+                "Git"
+            ]
+        },
+        {
+            "title": "Blood Bank Donation System",
+            "bodyText": "-  Utilized React.js and Flask for frontend and backend respectively. Managed SQL database for efficient data storage.\n - Implemented encryption and user authentication for data security.\n -  Implemented robust security measures including encryption and user authentication to protect sensitive donor data, adhering to the highest standards of data privacy and security.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/yaswanth1316/Bloodbank-management-system"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "Flask",
+                "React",
+                "SQL",
+                "Git"
+            ]
+        },
+        {
+            "title": "Talking Buddy: YourAICompanion",
+            "bodyText": "-  DevelopedachatbotusingaGRUneuralnetworkwithsentimentanalysisforcontextualresponses.\n -  Optimized model performance, reducing latency by 15% and achieving 85% accuracy in emotion detection.\n -  DesignedthefrontendwithReactandservedmodelpredictionsviaaFlaskAPI.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
+                }
+            ],
+            "tags" : [
+                "textblob",
+                "REST APIs ",
+                "Scikit-Learn",
+                "Python",
+                "NLP",
+                "Git"
+            ]
+        },
+        {
+            "title": "Skin Cancer Classification Using Deeplearning",
+            "bodyText": "- Created a deep learning model for accurate detection of skin Cancer and implemented ResNet-v2 CNN pretrained for object recognition.\n - CNN was trained with backpropagation using the Adam optimizer with a global learning rate of 0.001 and a decay factor of 16 every 30 epochs.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/yaswanth1316/Skin"
+                }
+            ],
+            "tags" : [
+                "SentimentAnalysis",
+                "FlaskRESTAPI",
+                "GRUNeuralNetwork",
+                "python"
+            ]
+        },
+        {
+            "title": "Event Management System",
+            "bodyText": "- Designed and managed a PostgreSQL database for an event registration system, ensuring secure and efficient data retrieval.\n - Developed dynamic front-end interfaces using Django templates, HTML, CSS, and JavaScript.\n - Utilized pgAdmin4 for database management, streamlining event logistics and enhancing community interaction.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/yaswanth1316/EMS"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "HTML",
+                "CSS",
+                "Django",
+                "PostgreSQL",
+                "pgAdmin4"
+            ]
+        }
+    ]
+}

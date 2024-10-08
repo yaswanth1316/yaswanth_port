@@ -1,0 +1,18 @@
+{
+   
+    "education":[
+        {
+            "title": "Jan 2023 - Present",
+            "cardTitle": "Mater's in Computer Science",
+            "cardSubtitle":"Virginia Tech, Blacksburg",
+            "cardDetailedText": "CGPA - 4"
+        },
+        {
+            "title": "Jun 2018 - May 2022",
+            "cardTitle": "Bachelor fo Technology, Computer Science",
+            "cardSubtitle":"Veltech University, City",
+            "cardDetailedText": "CGPA - 8.48"
+        }
+        
+    ]
+}
