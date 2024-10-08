@@ -1,0 +1,24 @@
+{
+    "experiences": [
+        {
+            "title": "Web Developer",
+            "subtitle": "Verizeo-Microsoft",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed a responsive housing website using HTML, CSS, JavaScript, and Bootstrap to enhance user experience across different devices.",
+                "Integrated MySQL database for managing property listings, user data, and search functionality, improving data accessibility and user interaction."
+            ],
+            "dateText": "09/2020 – 11/2020"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "Chegg",
+            "workType": "Freelance",
+            "workDescription": [
+                "Developed a sleek, user-friendly portfolio for a photographer, featuring optimized photo galleries and a fully responsive design for all device types.",
+                "Utilized Vue.js for dynamic front-end interactions, with Java and SQL for backend data management, ensuring seamless performance and functionality."
+            ],
+            "dateText": "01/2021 – 06/2021"
+        }
+    ]
+}

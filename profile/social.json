@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/yaswanth-chakiri-143980246"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/yaswanth1316"
+        },
+        {
+            "network" : "email",
+            "href": "yaswanth22@vt.edu"
+        }
+    ]
+}
